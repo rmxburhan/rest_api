@@ -1,0 +1,17 @@
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest_api.FrmLogin.resources
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest_api.Properties.Resources.resources
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.csproj.GenerateResource.cache
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.csproj.CoreCompileInputs.cache
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\rest-api.exe.config
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\rest-api.exe
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\rest-api.pdb
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\School System\source\repos\rest-api\rest-api\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.csproj.CopyComplete
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.exe
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.pdb
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest_api.FrmHome.resources
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest_api.FrmRegister.resources
+C:\Users\School System\source\repos\rest-api\rest-api\obj\Debug\rest-api.csproj.AssemblyReference.cache
